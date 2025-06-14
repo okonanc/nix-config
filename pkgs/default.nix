@@ -1,1 +1,2 @@
-{}
+{pkgs ? import <nixpkgs> {}, ...}: rec {
+}
